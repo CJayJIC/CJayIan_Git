@@ -1,7 +1,9 @@
 Smart Home Monitoring System
 Overview
 This is an IoT-based Smart Home Monitoring System built using an ESP8266 (e.g., NodeMCU) with Arduino. The system monitors temperature, humidity, and motion, sending data to a web server accessible via a browser. It also allows remote control of an LED. The project is modular, with separate files for sensor handling, WiFi configuration, and web server functionality.
+
 Author: Jay Ian Camelotes
+
 Features
 
 Monitors temperature and humidity using a DHT11 sensor.
